@@ -1,0 +1,2 @@
+IDENTIFY = "*IDN?"
+READ = ":READ?"

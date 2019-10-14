@@ -1,0 +1,2 @@
+KEITHLEY = "Keithley"
+AGILENT = "Agilent"
